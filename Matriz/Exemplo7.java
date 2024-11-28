@@ -1,5 +1,3 @@
-import javax.swing.JOptionPane;
-
 public class Exemplo7 {
     public static void main(String[] args) {
         double[][] matriz = {{4.5, 5.2}, {4.2,1}};
